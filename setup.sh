@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Wa1idMahmoud 
-onlyonehas
-/
-mac_dev_setup
-Public
-Fork your own copy of onlyonehas/mac_dev_setup
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-mac_dev_setup/setup.sh
-@onlyonehas
-onlyonehas Update setup.sh
-…
-Latest commit c546b78 on Jul 22, 2022
- History
- 1 contributor
-Executable File  76 lines (63 sloc)  2.51 KB
-
 #!/usr/bin/env bash
 
 # Mac software update 
