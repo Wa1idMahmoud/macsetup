@@ -1,0 +1,4 @@
+.aws/
+.cert/
+etc.sh
+work.zshrc
