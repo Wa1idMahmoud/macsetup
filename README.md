@@ -38,7 +38,7 @@ to keep your browser customisation - bookmarks, extensions etc
 Vs Code Sync:
 You can turn on Settings Sync using the Turn On Settings Sync... entry in the Manage gear menu at the bottom of the Activity Bar.
 
-[VS Code Settings Sync Documentation](https://code.visualstudio.com/docs/editor/settings-sync)
+<a href="https://code.visualstudio.com/docs/editor/settings-sync" target="_blank">VS Code Settings Sync Documentation</a>
 
 ### To add in `.zshrc`
 
