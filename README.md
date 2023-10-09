@@ -7,17 +7,17 @@
 On many occassions, I had to change laptops, which meant
 I had to install **everything** again from scratch.
 
-_So_ wrote this basic script to automate the process
+_So_ I wrote this basic script to automate the process
 
 ## Prerequisite
 
-Install x-code which contains dev env for mac
+Install x-code which contains dev env for mac:
 
-> https://developer.apple.com/download/all/?q=command%20line%20tools
+[Apple Command Line Tools](https://developer.apple.com/download/all/?q=command%20line%20tools)
 
 ---
 
-# How to run the script
+# How to run the script:
 
 ```
 chmod 755 setup.sh
@@ -38,7 +38,7 @@ to keep your browser customisation - bookmarks, extensions etc
 Vs Code Sync:
 You can turn on Settings Sync using the Turn On Settings Sync... entry in the Manage gear menu at the bottom of the Activity Bar.
 
-> https://code.visualstudio.com/docs/editor/settings-sync
+[VS Code Settings Sync Documentation](https://code.visualstudio.com/docs/editor/settings-sync)
 
 ### To add in `.zshrc`
 
@@ -49,7 +49,7 @@ eval "$(starship init zsh)"
 
 ---
 
-## Github machine setup
+## Github machine setup:
 
 ### SSH:
 
