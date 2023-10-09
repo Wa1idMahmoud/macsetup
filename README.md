@@ -74,3 +74,27 @@ Copy Id after the `sec 4096R/`
 
     gpg --armor --export **GPG key ID**
 ````
+
+### DEV Links:
+
+Daily websites I use:
+
+[Crontab Guru](https://crontab.guru/#*_*_*_*_*)
+
+[CIDR IP ADDRESS](https://cidr.xyz/)
+
+[DevDocs](https://devdocs.io/)
+
+[ShellCheck](https://www.shellcheck.net/)
+
+[JSONLint](https://jsonlint.com/)
+
+[YAMLLint](https://www.yamllint.com/)
+
+[CyberChef](https://gchq.github.io/CyberChef/)
+
+[HTTPie](https://httpie.io/)
+
+[TLDR](https://tldr.sh/)
+
+[Diagrams.net](https://app.diagrams.net/)
