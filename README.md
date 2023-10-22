@@ -100,9 +100,7 @@ Daily websites I use:
 - [CyberChef](https://gchq.github.io/CyberChef/)
 
 - [HTTPie](https://httpie.io/)
-
 - [TLDR](https://tldr.sh/)
 
 - [Markdown <img src="https://markdowneditor.org/images/favicon-32x32.png" style="vertical-align: middle;">](https://markdowneditor.org)
-
 - [Diagrams.net](https://app.diagrams.net/)
