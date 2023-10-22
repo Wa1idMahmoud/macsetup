@@ -4,7 +4,7 @@
 
 ## Description
 
-On many occassions, I had to change laptops, which meant
+On many occasions, I had to change laptops, which meant
 I had to install **everything** again from scratch.
 
 _So_ I wrote this basic script to automate the process
@@ -17,14 +17,14 @@ Install x-code which contains dev env for mac:
 
 ---
 
-# How to run the script:
+## How to run the script
 
-```
+``` bash
 chmod 755 setup.sh
 ./setup.sh
 ```
 
-## Still TO DO:
+## Still TO DO
 
 - [ ] Automate dot files
 - [ ] Store secrets ie .aws, cers
@@ -33,7 +33,7 @@ chmod 755 setup.sh
 
 Google Chrome:
 Ensure to sign in and turn on sync in Chrome
-to keep your browser customisation - bookmarks, extensions etc
+to keep your browser customizations - bookmarks, extensions etc
 
 Vs Code Sync:
 You can turn on Settings Sync using the Turn On Settings Sync... entry in the Manage gear menu at the bottom of the Activity Bar.
@@ -42,7 +42,7 @@ You can turn on Settings Sync using the Turn On Settings Sync... entry in the Ma
 
 ### To add in `.zshrc`
 
-```
+``` bash
 plugins=(z, zsh-autosuggestions)
 eval "$(starship init zsh)"
 ```
@@ -55,46 +55,54 @@ eval "$(starship init zsh)"
 
 To Generate an SSH key:
 
-````  
+``` bash 
 ssh-keygen
 cat ~/.ssh/id_rsa.pub | pbcopy
 ```  
 
-### GPG:
+## GPG
 
 If you are on version 2.1.17 or greater, paste the text below to generate a GPG key pair.
 
+``` bash
     gpg --full-generate-key
+```
 
 Use the gpg --list-secret-keys --keyid-format=long command to list the long form of the GPG keys
 
+``` bash
     gpg --list-secret-keys --keyid-format=long
+```
 
 Copy Id after the `sec 4096R/`
 
+``` bash
     gpg --armor --export **GPG key ID**
-````
+```
+---
 
-### DEV Links:
+## DEV Links
 
 Daily websites I use:
 
-[Crontab Guru](https://crontab.guru/#*_*_*_*_*)
+- [Crontab Guru](https://crontab.guru/#*_*_*_*_*)
 
-[CIDR IP ADDRESS](https://cidr.xyz/)
+- [CIDR IP ADDRESS](https://cidr.xyz/)
 
-[DevDocs](https://devdocs.io/)
+- [DevDocs](https://devdocs.io/)
 
-[ShellCheck](https://www.shellcheck.net/)
+- [ShellCheck](https://www.shellcheck.net/)
 
-[JSONLint](https://jsonlint.com/)
+- [JSONLint](https://jsonlint.com/)
 
-[YAMLLint](https://www.yamllint.com/)
+- [YAMLLint](https://www.yamllint.com/)
 
-[CyberChef](https://gchq.github.io/CyberChef/)
+- [CyberChef](https://gchq.github.io/CyberChef/)
 
-[HTTPie](https://httpie.io/)
+- [HTTPie](https://httpie.io/)
 
-[TLDR](https://tldr.sh/)
+- [TLDR](https://tldr.sh/)
 
-[Diagrams.net](https://app.diagrams.net/)
+- [Markdown <img src="https://markdowneditor.org/images/favicon-32x32.png" style="vertical-align: middle;">](https://markdowneditor.org)
+
+- [Diagrams.net](https://app.diagrams.net/)
